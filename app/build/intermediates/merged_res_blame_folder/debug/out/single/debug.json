@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_tzeitel.jpg.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/tzeitel.jpg"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/layout_vertical_horizontal_list_item.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/layout/vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_bella.jpg.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/bella.jpg"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/layout_activity_horizontal_list.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/layout/activity_horizontal_list.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/layout_activity_grid_list.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/layout/activity_grid_list.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_frankie.jpg.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/frankie.jpg"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/layout_activity_vertical_list.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/layout/activity_vertical_list.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_nox.jpg.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/nox.jpg"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/layout_grid_list_item.xml.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/layout/grid_list_item.xml"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_faye.jpg.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/faye.jpg"
+    },
+    {
+        "merged": "/home/hemant/AndroidStudioProjects/DogglersApp/app/build/intermediates/merged_res/debug/drawable_leroy.jpg.flat",
+        "source": "/home/hemant/AndroidStudioProjects/DogglersApp/app/src/main/res/drawable/leroy.jpg"
+    }
+]
