@@ -25,3 +25,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Output Screenshots
+------------------
+<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersMain.png" alt="Dogglers Main Landing View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersVertical.png" alt="Dogglers Vertical List View">
+<img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersHorizontal.png" alt="Dogglers Horizontal View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersGrid.png" alt="Dogglers Grid View">
